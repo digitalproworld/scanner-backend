@@ -1,0 +1,13 @@
+{
+  "name": "dwp-website-scanner",
+  "version": "1.0.0",
+  "description": "Digital World Pro — honest website scanner backend",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
